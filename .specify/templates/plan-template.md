@@ -31,7 +31,11 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+*   [ ] **Spec-Driven Development**: Does a `spec.md` exist for this feature and is it linked?
+*   [ ] **Test-Driven Development**: Does the plan account for writing tests *before* implementation? (`tasks.md` should reflect this).
+*   [ ] **Auditable History**: Is the work being performed on a feature branch to ensure clean history?
+*   [ ] **Modularity**: Does the proposed file structure promote modular and reusable components?
+*   [ ] **Automation**: Does the plan leverage existing scripts and tools where applicable?
 
 ## Project Structure
 
