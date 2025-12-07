@@ -1,109 +1,152 @@
 {
-  "/robotics-book/markdown-page-cd0": {
-    "__comp": "1f391b9e",
+  "/robotics-book/__docusaurus/debug-341": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+    }
+  },
+  "/robotics-book/__docusaurus/debug/config-145": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+    }
+  },
+  "/robotics-book/__docusaurus/debug/content-bcc": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
     },
-    "content": "393be207"
+    "__props": "__props---robotics-book-docusaurus-debug-contentad-0-d7f"
+  },
+  "/robotics-book/__docusaurus/debug/globalData-00d": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+    }
+  },
+  "/robotics-book/__docusaurus/debug/metadata-c19": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+    }
+  },
+  "/robotics-book/__docusaurus/debug/registry-8ea": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+    }
+  },
+  "/robotics-book/__docusaurus/debug/routes-168": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+    }
+  },
+  "/robotics-book/markdown-page-cd0": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---robotics-book-markdown-pagea-74-52b"
+    },
+    "content": "content---robotics-book-markdown-page-393-cda"
   },
   "/robotics-book/docs-252": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---robotics-book-docsaba-256"
     }
   },
   "/robotics-book/docs-1f2": {
-    "__comp": "a7bd4aaa",
-    "__props": "7caa6fb5"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---robotics-book-docs-7-ca-ce6"
   },
   "/robotics-book/docs-e3a": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai-94c": {
-    "__comp": "17896441",
-    "content": "91a06c13"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-01-introduction-to-physical-ai-lesson-1-1-what-is-physical-ai-91-a-0d9"
   },
   "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied-intelligence-5b3": {
-    "__comp": "17896441",
-    "content": "a8f59f6a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-01-introduction-to-physical-ai-lesson-1-2-embodied-intelligencea-8-f-080"
   },
   "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-3-course-overview-eab": {
-    "__comp": "17896441",
-    "content": "9eb08714"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-01-introduction-to-physical-ai-lesson-1-3-course-overview-9-eb-c41"
   },
   "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-1-ros-2-architecture-21f": {
-    "__comp": "17896441",
-    "content": "e1f0e14f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-1-ros-2-architecturee-1-f-0df"
   },
   "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions-fff": {
-    "__comp": "17896441",
-    "content": "66f16682"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-2-nodes-topics-services-actions-66-f-48e"
   },
   "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python-integration-f5f": {
-    "__comp": "17896441",
-    "content": "0b376b8b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-3-python-integration-0-b-3-85a"
   },
   "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf-for-humanoids-107": {
-    "__comp": "17896441",
-    "content": "655d15b2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-4-urdf-for-humanoids-655-d1d"
   },
   "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo-simulation-basics-78f": {
-    "__comp": "17896441",
-    "content": "465ffd67"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-03-digital-twin-gazebo-unity-lesson-3-1-gazebo-simulation-basics-465-824"
   },
   "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor-simulation-54a": {
-    "__comp": "17896441",
-    "content": "af0279f0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-03-digital-twin-gazebo-unity-lesson-3-2-sensor-simulationaf-0-03a"
   },
   "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity-rendering-with-unity-9b9": {
-    "__comp": "17896441",
-    "content": "25a7a652"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-03-digital-twin-gazebo-unity-lesson-3-3-high-fidelity-rendering-with-unity-25-a-a9a"
   },
   "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview-380": {
-    "__comp": "17896441",
-    "content": "6e80434b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-04-ai-robot-brain-nvidia-isaac-lesson-4-1-isaac-sim-overview-6-e-8-8f0"
   },
   "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation-768": {
-    "__comp": "17896441",
-    "content": "caedde70"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-04-ai-robot-brain-nvidia-isaac-lesson-4-2-isaac-ros-for-navigationcae-fe2"
   },
   "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning-d5a": {
-    "__comp": "17896441",
-    "content": "98fa01bb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-04-ai-robot-brain-nvidia-isaac-lesson-4-3-reinforcement-learning-98-f-6ee"
   },
   "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration-912": {
-    "__comp": "17896441",
-    "content": "91517b9a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-05-vision-language-action-vla-lesson-5-1-llm-integration-915-384"
   },
   "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action-with-whisper-5fb": {
-    "__comp": "17896441",
-    "content": "a4e5853b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-05-vision-language-action-vla-lesson-5-2-voice-to-action-with-whispera-4-e-af6"
   },
   "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning-9a0": {
-    "__comp": "17896441",
-    "content": "b6252684"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-05-vision-language-action-vla-lesson-5-3-cognitive-planningb-62-c20"
   },
   "/robotics-book/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview-b5a": {
-    "__comp": "17896441",
-    "content": "70b80527"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-06-capstone-project-lesson-6-1-autonomous-humanoid-overview-70-b-606"
   },
   "/robotics-book/docs/chapter-06-capstone-project/lesson-6-2-integration-of-modules-f2a": {
-    "__comp": "17896441",
-    "content": "5828e5e0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-06-capstone-project-lesson-6-2-integration-of-modules-582-0cc"
   },
   "/robotics-book/docs/chapter-06-capstone-project/lesson-6-3-deployment-assessment-2a1": {
-    "__comp": "17896441",
-    "content": "2fb0344c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-chapter-06-capstone-project-lesson-6-3-deployment-assessment-2-fb-aff"
   },
   "/robotics-book/docs/intro-327": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-docs-intro-0-e-3-ae3"
   },
   "/robotics-book/-e50": {
-    "__comp": "1df93b7f",
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---robotics-book-markdown-pagea-74-52b"
     },
-    "config": "5e9f5e1a"
+    "config": "config---robotics-book-5-e-9-9b8"
   }
 }

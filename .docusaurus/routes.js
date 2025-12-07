@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/robotics-book/__docusaurus/debug',
+    component: ComponentCreator('/robotics-book/__docusaurus/debug', '341'),
+    exact: true
+  },
+  {
+    path: '/robotics-book/__docusaurus/debug/config',
+    component: ComponentCreator('/robotics-book/__docusaurus/debug/config', '145'),
+    exact: true
+  },
+  {
+    path: '/robotics-book/__docusaurus/debug/content',
+    component: ComponentCreator('/robotics-book/__docusaurus/debug/content', 'bcc'),
+    exact: true
+  },
+  {
+    path: '/robotics-book/__docusaurus/debug/globalData',
+    component: ComponentCreator('/robotics-book/__docusaurus/debug/globalData', '00d'),
+    exact: true
+  },
+  {
+    path: '/robotics-book/__docusaurus/debug/metadata',
+    component: ComponentCreator('/robotics-book/__docusaurus/debug/metadata', 'c19'),
+    exact: true
+  },
+  {
+    path: '/robotics-book/__docusaurus/debug/registry',
+    component: ComponentCreator('/robotics-book/__docusaurus/debug/registry', '8ea'),
+    exact: true
+  },
+  {
+    path: '/robotics-book/__docusaurus/debug/routes',
+    component: ComponentCreator('/robotics-book/__docusaurus/debug/routes', '168'),
+    exact: true
+  },
+  {
     path: '/robotics-book/markdown-page',
     component: ComponentCreator('/robotics-book/markdown-page', 'cd0'),
     exact: true

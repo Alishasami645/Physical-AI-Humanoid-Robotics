@@ -4,9 +4,9 @@ const config = {
   title: 'Physical AI & Humanoid Robotics',
   tagline: 'Bringing Artificial Intelligence to Life, Guiding Humanoid Robots from Simulation to Reality.',
   favicon: 'img/favicon.ico',
-  url: 'https://YOUR_USERNAME.github.io',
+  url: 'https://github.com/Alishasami645/Physical-AI-Humanoid-Robotics',
   baseUrl: '/robotics-book/',
-  organizationName: 'YOUR_USERNAME',
+  organizationName: 'Alishasami645',
   projectName: 'robotics-book',
   onBrokenLinks: 'throw',
   i18n: {
@@ -17,10 +17,6 @@ const config = {
     [
       'classic',
       {
-        docs: {
-          sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/YOUR_USERNAME/robotics-book/tree/main/',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
