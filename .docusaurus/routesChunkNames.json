@@ -1,152 +1,152 @@
 {
-  "/robotics-book/__docusaurus/debug-341": {
+  "/Physical-AI-Humanoid-Robotics/__docusaurus/debug-c33": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debugb-38-5e7"
     }
   },
-  "/robotics-book/__docusaurus/debug/config-145": {
+  "/Physical-AI-Humanoid-Robotics/__docusaurus/debug/config-c76": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debugb-38-5e7"
     }
   },
-  "/robotics-book/__docusaurus/debug/content-bcc": {
+  "/Physical-AI-Humanoid-Robotics/__docusaurus/debug/content-225": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debugb-38-5e7"
     },
-    "__props": "__props---robotics-book-docusaurus-debug-contentad-0-d7f"
+    "__props": "__props---physical-ai-humanoid-robotics-docusaurus-debug-content-918-578"
   },
-  "/robotics-book/__docusaurus/debug/globalData-00d": {
+  "/Physical-AI-Humanoid-Robotics/__docusaurus/debug/globalData-7c7": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debugb-38-5e7"
     }
   },
-  "/robotics-book/__docusaurus/debug/metadata-c19": {
+  "/Physical-AI-Humanoid-Robotics/__docusaurus/debug/metadata-349": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debugb-38-5e7"
     }
   },
-  "/robotics-book/__docusaurus/debug/registry-8ea": {
+  "/Physical-AI-Humanoid-Robotics/__docusaurus/debug/registry-99b": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debugb-38-5e7"
     }
   },
-  "/robotics-book/__docusaurus/debug/routes-168": {
+  "/Physical-AI-Humanoid-Robotics/__docusaurus/debug/routes-61a": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---robotics-book-docusaurus-debugb-38-710"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debugb-38-5e7"
     }
   },
-  "/robotics-book/markdown-page-cd0": {
+  "/Physical-AI-Humanoid-Robotics/markdown-page-aa8": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---robotics-book-markdown-pagea-74-52b"
+      "plugin": "plugin---physical-ai-humanoid-robotics-markdown-pagea-74-277"
     },
-    "content": "content---robotics-book-markdown-page-393-cda"
+    "content": "content---physical-ai-humanoid-robotics-markdown-page-393-40b"
   },
-  "/robotics-book/docs-252": {
+  "/Physical-AI-Humanoid-Robotics/docs-0eb": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---robotics-book-docsaba-256"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docsaba-5a1"
     }
   },
-  "/robotics-book/docs-1f2": {
+  "/Physical-AI-Humanoid-Robotics/docs-0d1": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---robotics-book-docs-7-ca-ce6"
+    "__props": "__props---physical-ai-humanoid-robotics-docs-55-e-210"
   },
-  "/robotics-book/docs-e3a": {
+  "/Physical-AI-Humanoid-Robotics/docs-225": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai-94c": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai-ea9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-01-introduction-to-physical-ai-lesson-1-1-what-is-physical-ai-91-a-0d9"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-01-introduction-to-physical-ai-lesson-1-1-what-is-physical-ai-91-a-7fa"
   },
-  "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied-intelligence-5b3": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied intelligence-32d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-01-introduction-to-physical-ai-lesson-1-2-embodied-intelligencea-8-f-080"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-01-introduction-to-physical-ai-lesson-1-2-embodied-intelligencea-8-f-471"
   },
-  "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-3-course-overview-eab": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-01-introduction-to-physical-ai/lesson-1-3-course overview & learning outcomes-d58": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-01-introduction-to-physical-ai-lesson-1-3-course-overview-9-eb-c41"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-01-introduction-to-physical-ai-lesson-1-1-course-overview-learning-outcomes-9-eb-892"
   },
-  "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-1-ros-2-architecture-21f": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-1-rOS 2 architecture-018": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-1-ros-2-architecturee-1-f-0df"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-1-r-os-2-architecturee-1-f-ba2"
   },
-  "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions-fff": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions-8d8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-2-nodes-topics-services-actions-66-f-48e"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-2-nodes-topics-services-actions-66-f-406"
   },
-  "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python-integration-f5f": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python integration-d3a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-3-python-integration-0-b-3-85a"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-3-python-integration-0-b-3-113"
   },
-  "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf-for-humanoids-107": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf for humanoids-fc5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-4-urdf-for-humanoids-655-d1d"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-02-robotic-nervous-system-ros-2-lesson-2-4-urdf-for-humanoids-655-112"
   },
-  "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo-simulation-basics-78f": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo simulation basics-7a6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-03-digital-twin-gazebo-unity-lesson-3-1-gazebo-simulation-basics-465-824"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-03-digital-twin-gazebo-unity-lesson-3-1-gazebo-simulation-basics-465-a4a"
   },
-  "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor-simulation-54a": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor simulation-85d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-03-digital-twin-gazebo-unity-lesson-3-2-sensor-simulationaf-0-03a"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-03-digital-twin-gazebo-unity-lesson-3-2-sensor-simulationaf-0-beb"
   },
-  "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity-rendering-with-unity-9b9": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity rendering with unity-4e0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-03-digital-twin-gazebo-unity-lesson-3-3-high-fidelity-rendering-with-unity-25-a-a9a"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-03-digital-twin-gazebo-unity-lesson-3-3-high-fidelity-rendering-with-unity-25-a-2c3"
   },
-  "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview-380": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview-b8b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-04-ai-robot-brain-nvidia-isaac-lesson-4-1-isaac-sim-overview-6-e-8-8f0"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-04-ai-robot-brain-nvidia-isaac-lesson-4-1-isaac-sim-overview-6-e-8-800"
   },
-  "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation-768": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-navigation-04b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-04-ai-robot-brain-nvidia-isaac-lesson-4-2-isaac-ros-for-navigationcae-fe2"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-04-ai-robot-brain-nvidia-isaac-lesson-4-2-isaac-ros-for-navigationcae-0e5"
   },
-  "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning-d5a": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-rl-sim-to-real-d37": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-04-ai-robot-brain-nvidia-isaac-lesson-4-3-reinforcement-learning-98-f-6ee"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-04-ai-robot-brain-nvidia-isaac-lesson-4-3-reinforcement-learning-98-f-ba7"
   },
-  "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration-912": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration-d32": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-05-vision-language-action-vla-lesson-5-1-llm-integration-915-384"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-05-vision-language-action-vla-lesson-5-1-llm-integration-915-871"
   },
-  "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action-with-whisper-5fb": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action-180": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-05-vision-language-action-vla-lesson-5-2-voice-to-action-with-whispera-4-e-af6"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-05-vision-language-action-vla-lesson-5-2-voice-to-action-with-whispera-4-e-d51"
   },
-  "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning-9a0": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning-588": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-05-vision-language-action-vla-lesson-5-3-cognitive-planningb-62-c20"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-05-vision-language-action-vla-lesson-5-3-cognitive-planningb-62-633"
   },
-  "/robotics-book/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview-b5a": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview-119": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-06-capstone-project-lesson-6-1-autonomous-humanoid-overview-70-b-606"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-06-capstone-project-lesson-6-1-autonomous-humanoid-overview-70-b-b63"
   },
-  "/robotics-book/docs/chapter-06-capstone-project/lesson-6-2-integration-of-modules-f2a": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-06-capstone-project/lesson-6-2-integration-of-modules-ba3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-06-capstone-project-lesson-6-2-integration-of-modules-582-0cc"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-06-capstone-project-lesson-6-2-integration-of-modules-582-4c7"
   },
-  "/robotics-book/docs/chapter-06-capstone-project/lesson-6-3-deployment-assessment-2a1": {
+  "/Physical-AI-Humanoid-Robotics/docs/chapter-06-capstone-project/lesson-6-3-deployment-assessment-b35": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-chapter-06-capstone-project-lesson-6-3-deployment-assessment-2-fb-aff"
+    "content": "content---physical-ai-humanoid-robotics-docs-chapter-06-capstone-project-lesson-6-3-deployment-assessment-2-fb-85f"
   },
-  "/robotics-book/docs/intro-327": {
+  "/Physical-AI-Humanoid-Robotics/docs/intro-60b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robotics-book-docs-intro-0-e-3-ae3"
+    "content": "content---physical-ai-humanoid-robotics-docs-intro-0-e-3-641"
   },
-  "/robotics-book/-e50": {
+  "/Physical-AI-Humanoid-Robotics/-6c1": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---robotics-book-markdown-pagea-74-52b"
+      "plugin": "plugin---physical-ai-humanoid-robotics-markdown-pagea-74-277"
     },
-    "config": "config---robotics-book-5-e-9-9b8"
+    "config": "config---physical-ai-humanoid-robotics-5-e-9-f40"
   }
 }

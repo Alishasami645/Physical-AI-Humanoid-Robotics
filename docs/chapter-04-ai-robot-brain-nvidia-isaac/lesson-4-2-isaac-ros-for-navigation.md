@@ -1,3 +1,12 @@
+---
+id: "lesson-4-2-isaac-ros-navigation"
+title: "Lesson 4.2 — Isaac ROS for Navigation"
+sidebar_label: "Lesson 4.2: Isaac ROS for Navigation"
+sidebar: tutorialSidebar
+---
+
+
+
 # Lesson 4.2: Isaac ROS for Navigation
 
 Isaac ROS provides prebuilt ROS 2 packages and nodes for robot navigation, including path planning, mapping, and control.

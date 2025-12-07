@@ -1,3 +1,10 @@
+---
+id: "lesson-2-4-urdf for humanoids"
+title: "Lesson 2.4 — URDF for Humanoids"
+sidebar_label: "Lesson 2.4: URDF for Humanoids"
+sidebar: tutorialSidebar
+---
+
 # Lesson 2.4: URDF for Humanoids
 
 URDF (Unified Robot Description Format) is an XML-based format used to describe the structure and properties of robots in ROS 2. It allows simulation, visualization, and integration of humanoid robots in Gazebo or RViz.

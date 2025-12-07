@@ -1,3 +1,11 @@
+---
+id: "lesson-6-2-integration-of-modules"
+title: "Lesson 6.2 — Integration of Modules"
+sidebar_label: "Lesson 6.2: Integration of Modules"
+sidebar: tutorialSidebar
+---
+
+
 # Lesson 6.2: Integration of Modules
 
 Integration combines perception, planning, control, and AI reasoning into a cohesive humanoid system.

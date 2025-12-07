@@ -1,113 +1,113 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/robotics-book/docs",
+      "path": "/Physical-AI-Humanoid-Robotics/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/robotics-book/docs",
+          "path": "/Physical-AI-Humanoid-Robotics/docs",
           "mainDocId": "chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
           "docs": [
             {
               "id": "chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
-              "path": "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "chapter-01-introduction-to-physical-ai/lesson-1-2-embodied-intelligence",
-              "path": "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied-intelligence",
+              "id": "chapter-01-introduction-to-physical-ai/lesson-1-2-embodied intelligence",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied intelligence",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "chapter-01-introduction-to-physical-ai/lesson-1-3-course-overview",
-              "path": "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-3-course-overview",
+              "id": "chapter-01-introduction-to-physical-ai/lesson-1-3-course overview & learning outcomes",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-01-introduction-to-physical-ai/lesson-1-3-course overview & learning outcomes",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "chapter-02-robotic-nervous-system-ros-2/lesson-2-1-ros-2-architecture",
-              "path": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-1-ros-2-architecture",
+              "id": "chapter-02-robotic-nervous-system-ros-2/lesson-2-1-rOS 2 architecture",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-1-rOS 2 architecture",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions",
-              "path": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python-integration",
-              "path": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python-integration",
+              "id": "chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python integration",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python integration",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf-for-humanoids",
-              "path": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf-for-humanoids",
+              "id": "chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf for humanoids",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf for humanoids",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo-simulation-basics",
-              "path": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo-simulation-basics",
+              "id": "chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo simulation basics",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo simulation basics",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor-simulation",
-              "path": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor-simulation",
+              "id": "chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor simulation",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor simulation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity-rendering-with-unity",
-              "path": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity-rendering-with-unity",
+              "id": "chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity rendering with unity",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity rendering with unity",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview",
-              "path": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation",
-              "path": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation",
+              "id": "chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-navigation",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-navigation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning",
-              "path": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning",
+              "id": "chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-rl-sim-to-real",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-rl-sim-to-real",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "chapter-05-vision-language-action-vla/lesson-5-1-llm-integration",
-              "path": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action-with-whisper",
-              "path": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action-with-whisper",
+              "id": "chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning",
-              "path": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview",
-              "path": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "chapter-06-capstone-project/lesson-6-2-integration-of-modules",
-              "path": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-2-integration-of-modules",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-06-capstone-project/lesson-6-2-integration-of-modules",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "chapter-06-capstone-project/lesson-6-3-deployment-assessment",
-              "path": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-3-deployment-assessment",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-06-capstone-project/lesson-6-3-deployment-assessment",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/robotics-book/docs/intro",
+              "path": "/Physical-AI-Humanoid-Robotics/docs/intro",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -115,8 +115,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
-                "label": "chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai"
+                "path": "/Physical-AI-Humanoid-Robotics/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
+                "label": "Lesson 1.1: What is Physical AI"
               }
             }
           }

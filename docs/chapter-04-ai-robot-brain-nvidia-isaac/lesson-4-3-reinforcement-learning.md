@@ -1,3 +1,11 @@
+---
+id: "lesson-4-3-rl-sim-to-real"
+title: "Lesson 4.3 — Reinforcement Learning & Sim-to-Real Transfer"
+sidebar_label: "Lesson 4.3: RL & Sim-to-Real"
+sidebar: tutorialSidebar
+---
+
+
 # Lesson 4.3: Reinforcement Learning & Sim-to-Real Transfer
 
 Reinforcement Learning (RL) allows robots to learn tasks by trial and error in simulation before transferring skills to real robots.

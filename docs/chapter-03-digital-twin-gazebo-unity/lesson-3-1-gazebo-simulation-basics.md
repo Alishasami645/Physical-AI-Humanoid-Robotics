@@ -1,3 +1,12 @@
+---
+id: "lesson-3-1-gazebo simulation basics"
+title: "Lesson 3.1 — LGazebo Simulation Basics"
+sidebar_label: "Lesson 3.1: Gazebo Simulation Basics"
+sidebar: tutorialSidebar
+---
+
+
+
 # Lesson 3.1: Gazebo Simulation Basics
 
 Gazebo is a powerful 3D robotics simulator that allows testing and development of robots in virtual environments before deploying to the real world.

@@ -1,20 +1,25 @@
 {
   "id": "chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
-  "title": "Lesson 1.1: What is Physical AI",
+  "title": "Lesson 1.1 — What is Physical AI",
   "description": "Physical AI refers to artificial intelligence systems that interact with the real world through physical bodies, sensors, and actuators. Unlike traditional AI, which exists only as software, Physical AI combines cognition, perception, and action in a single system.",
   "source": "@site/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai.md",
   "sourceDirName": "chapter-01-introduction-to-physical-ai",
   "slug": "/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
-  "permalink": "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
+  "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai.md",
+  "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "id": "lesson-1-1-what-is-physical-ai",
+    "title": "Lesson 1.1 — What is Physical AI",
+    "sidebar_label": "Lesson 1.1: What is Physical AI",
+    "sidebar": "tutorialSidebar"
+  },
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Lesson 1.2: Embodied Intelligence",
-    "permalink": "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied-intelligence"
+    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied intelligence"
   }
 }

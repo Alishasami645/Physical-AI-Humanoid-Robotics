@@ -1,24 +1,29 @@
 {
   "id": "chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning",
-  "title": "Lesson 5.3: Cognitive Planning & Multi-modal Interaction",
+  "title": "Lesson 5.3 — Cognitive Planning & Multi-modal Interaction",
   "description": "Cognitive planning allows robots to combine multiple sensory inputs and reasoning for complex task execution.",
   "source": "@site/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning.md",
   "sourceDirName": "chapter-05-vision-language-action-vla",
   "slug": "/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning",
-  "permalink": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning",
+  "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning.md",
+  "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "id": "lesson-5-3-cognitive-planning",
+    "title": "Lesson 5.3 — Cognitive Planning & Multi-modal Interaction",
+    "sidebar_label": "Lesson 5.3: Cognitive Planning",
+    "sidebar": "tutorialSidebar"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Lesson 5.2: Voice-to-Action with Whisper",
-    "permalink": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action-with-whisper"
+    "title": "Lesson 5.2: Voice-to-Action",
+    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action"
   },
   "next": {
     "title": "Lesson 6.1: Autonomous Humanoid Overview",
-    "permalink": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview"
+    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview"
   }
 }

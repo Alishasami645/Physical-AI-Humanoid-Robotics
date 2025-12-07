@@ -1,3 +1,10 @@
+---
+id: "lesson-2-1-rOS 2 architecture"
+title: "Lesson 2.1 — ROS 2 Architecture"
+sidebar_label: "Lesson 2.1: ROS 2 Architecture"
+sidebar: tutorialSidebar
+---
+
 # Lesson 2.1: ROS 2 Architecture
 
 ROS 2 (Robot Operating System 2) is a framework for developing robot software. It provides modular architecture, communication infrastructure, and tools for building complex robotic systems.

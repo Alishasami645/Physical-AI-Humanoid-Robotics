@@ -1,3 +1,10 @@
+---
+id: "lesson-1-2-embodied intelligence"
+title: "Lesson 1.2 — Embodied Intelligence"
+sidebar_label: "Lesson 1.2: Embodied Intelligence"
+sidebar: tutorialSidebar
+---
+
 # Lesson 1.2: Embodied Intelligence
 
 Embodied Intelligence is the principle that intelligence emerges through interaction between a body and its environment. Physical AI leverages this by combining sensors, actuators, and AI algorithms in a feedback loop.

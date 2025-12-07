@@ -1,24 +1,29 @@
 {
-  "id": "chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf-for-humanoids",
-  "title": "Lesson 2.4: URDF for Humanoids",
+  "id": "chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf for humanoids",
+  "title": "Lesson 2.4 — URDF for Humanoids",
   "description": "URDF (Unified Robot Description Format) is an XML-based format used to describe the structure and properties of robots in ROS 2. It allows simulation, visualization, and integration of humanoid robots in Gazebo or RViz.",
   "source": "@site/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf-for-humanoids.md",
   "sourceDirName": "chapter-02-robotic-nervous-system-ros-2",
-  "slug": "/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf-for-humanoids",
-  "permalink": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf-for-humanoids",
+  "slug": "/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf for humanoids",
+  "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf for humanoids",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf-for-humanoids.md",
+  "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf-for-humanoids.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "id": "lesson-2-4-urdf for humanoids",
+    "title": "Lesson 2.4 — URDF for Humanoids",
+    "sidebar_label": "Lesson 2.4: URDF for Humanoids",
+    "sidebar": "tutorialSidebar"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lesson 2.3: Python Integration",
-    "permalink": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python-integration"
+    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python integration"
   },
   "next": {
     "title": "Lesson 3.1: Gazebo Simulation Basics",
-    "permalink": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo-simulation-basics"
+    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo simulation basics"
   }
 }

@@ -1,3 +1,11 @@
+---
+id: "lesson-4-1-isaac-sim-overview"
+title: "Lesson 4.1 — Isaac Sim Overview"
+sidebar_label: "Lesson 4.1: Isaac Sim Overview"
+sidebar: tutorialSidebar
+---
+
+
 # Lesson 4.1: Isaac Sim Overview
 
 NVIDIA Isaac Sim is a robotics simulation platform that enables testing AI algorithms in photorealistic 3D environments.

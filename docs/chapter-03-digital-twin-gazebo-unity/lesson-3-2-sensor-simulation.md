@@ -1,3 +1,11 @@
+---
+id: "lesson-3-2-sensor simulation"
+title: "Lesson 3.2 — Sensor Simulation"
+sidebar_label: "Lesson 3.2: Sensor Simulation"
+sidebar: tutorialSidebar
+---
+
+
 # Lesson 3.2: Sensor Simulation (LiDAR, Cameras, IMU)
 
 Simulating sensors in Gazebo or Unity allows testing perception and control algorithms without a real robot.

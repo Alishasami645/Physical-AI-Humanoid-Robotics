@@ -1,3 +1,11 @@
+---
+id: "lesson-2-3-python integration"
+title: "Lesson 2.3 — Python Integration"
+sidebar_label: "Lesson 2.3: Python Integration"
+sidebar: tutorialSidebar
+---
+
+
 # Lesson 2.3: Python Integration
 
 Python is commonly used to write ROS 2 nodes due to its simplicity and rich libraries.

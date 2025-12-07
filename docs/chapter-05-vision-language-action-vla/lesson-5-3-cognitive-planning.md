@@ -1,3 +1,10 @@
+---
+id: "lesson-5-3-cognitive-planning"
+title: "Lesson 5.3 — Cognitive Planning & Multi-modal Interaction"
+sidebar_label: "Lesson 5.3: Cognitive Planning"
+sidebar: tutorialSidebar
+---
+
 # Lesson 5.3: Cognitive Planning & Multi-modal Interaction
 
 Cognitive planning allows robots to combine multiple sensory inputs and reasoning for complex task execution.

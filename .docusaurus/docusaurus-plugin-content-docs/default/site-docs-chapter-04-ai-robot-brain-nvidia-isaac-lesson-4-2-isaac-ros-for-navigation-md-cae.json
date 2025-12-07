@@ -1,24 +1,29 @@
 {
-  "id": "chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation",
-  "title": "Lesson 4.2: Isaac ROS for Navigation",
+  "id": "chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-navigation",
+  "title": "Lesson 4.2 — Isaac ROS for Navigation",
   "description": "Isaac ROS provides prebuilt ROS 2 packages and nodes for robot navigation, including path planning, mapping, and control.",
   "source": "@site/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation.md",
   "sourceDirName": "chapter-04-ai-robot-brain-nvidia-isaac",
-  "slug": "/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation",
-  "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation",
+  "slug": "/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-navigation",
+  "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-navigation",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation.md",
+  "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "id": "lesson-4-2-isaac-ros-navigation",
+    "title": "Lesson 4.2 — Isaac ROS for Navigation",
+    "sidebar_label": "Lesson 4.2: Isaac ROS for Navigation",
+    "sidebar": "tutorialSidebar"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lesson 4.1: Isaac Sim Overview",
-    "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview"
+    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview"
   },
   "next": {
-    "title": "Lesson 4.3: Reinforcement Learning & Sim-to-Real Transfer",
-    "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning"
+    "title": "Lesson 4.3: RL & Sim-to-Real",
+    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-rl-sim-to-real"
   }
 }

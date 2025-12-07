@@ -1,3 +1,10 @@
+---
+id: "lesson-6-1-autonomous-humanoid-overview"
+title: "Lesson 6.1 — Autonomous Humanoid Overview"
+sidebar_label: "Lesson 6.1: Autonomous Humanoid Overview"
+sidebar: tutorialSidebar
+---
+
 # Lesson 6.1: Autonomous Humanoid Overview
 
 The Capstone Project focuses on building an autonomous humanoid robot by integrating concepts from all previous chapters.

@@ -1,24 +1,29 @@
 {
   "id": "chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview",
-  "title": "Lesson 6.1: Autonomous Humanoid Overview",
+  "title": "Lesson 6.1 — Autonomous Humanoid Overview",
   "description": "The Capstone Project focuses on building an autonomous humanoid robot by integrating concepts from all previous chapters.",
   "source": "@site/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview.md",
   "sourceDirName": "chapter-06-capstone-project",
   "slug": "/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview",
-  "permalink": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview",
+  "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview.md",
+  "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "id": "lesson-6-1-autonomous-humanoid-overview",
+    "title": "Lesson 6.1 — Autonomous Humanoid Overview",
+    "sidebar_label": "Lesson 6.1: Autonomous Humanoid Overview",
+    "sidebar": "tutorialSidebar"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Lesson 5.3: Cognitive Planning & Multi-modal Interaction",
-    "permalink": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning"
+    "title": "Lesson 5.3: Cognitive Planning",
+    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning"
   },
   "next": {
     "title": "Lesson 6.2: Integration of Modules",
-    "permalink": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-2-integration-of-modules"
+    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-06-capstone-project/lesson-6-2-integration-of-modules"
   }
 }

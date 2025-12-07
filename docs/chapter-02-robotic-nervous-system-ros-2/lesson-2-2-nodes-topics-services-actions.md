@@ -1,3 +1,10 @@
+---
+id: "lesson-2-2-nodes-topics-services-actions"
+title: "Lesson 2.2 — Nodes, Topics, Services, and Actions"
+sidebar_label: "Lesson 2.2: Nodes, Topics, Services, Actions"
+sidebar: tutorialSidebar
+---
+
 # Lesson 2.2: Nodes, Topics, Services, Actions
 
 ROS 2 nodes interact using topics, services, and actions. This enables modular, decoupled robot software that can be scaled.

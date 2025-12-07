@@ -1,3 +1,12 @@
+---
+id: "lesson-3-3-high-fidelity rendering with unity"
+title: "Lesson 3.3 — High-Fidelity Rendering with Unity"
+sidebar_label: "Lesson 3.3: High-Fidelity Rendering with Unity"
+sidebar: tutorialSidebar
+---
+
+
+
 # Lesson 3.3: High-Fidelity Rendering with Unity
 
 High-fidelity rendering ensures robots and environments look realistic, which helps in visualization, debugging, and AI perception development.

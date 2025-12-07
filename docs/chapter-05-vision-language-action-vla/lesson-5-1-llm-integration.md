@@ -1,3 +1,11 @@
+---
+id: "lesson-5-1-llm-integration"
+title: "Lesson 5.1 — LLM Integration"
+sidebar_label: "Lesson 5.1: LLM Integration"
+sidebar: tutorialSidebar
+---
+
+
 # Lesson 5.1: LLM Integration
 
 Large Language Models (LLMs) can be integrated into robots to enable understanding of natural language commands and reasoning.

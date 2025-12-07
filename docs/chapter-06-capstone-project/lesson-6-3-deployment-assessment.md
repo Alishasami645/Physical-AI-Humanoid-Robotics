@@ -1,3 +1,10 @@
+---
+id: "lesson-6-3-deployment-assessment"
+title: "Lesson 6.3 — Deployment & Assessment"
+sidebar_label: "Lesson 6.3: Deployment & Assessment"
+sidebar: tutorialSidebar
+---
+
 # Lesson 6.3: Deployment & Assessment
 
 Deployment involves testing the humanoid in real-world scenarios and evaluating performance.

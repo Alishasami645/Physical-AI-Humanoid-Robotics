@@ -1,3 +1,12 @@
+---
+id: "lesson-1-3-course overview & learning outcomes"
+title: "Lesson 1.3 — Course Overview & Learning Outcomes"
+sidebar_label: "Lesson 1.3: Course Overview & Learning Outcomes"
+sidebar: tutorialSidebar
+---
+
+
+
 # Lesson 1.3: Course Overview & Learning Outcomes
 
 This course introduces students to Physical AI systems and covers:

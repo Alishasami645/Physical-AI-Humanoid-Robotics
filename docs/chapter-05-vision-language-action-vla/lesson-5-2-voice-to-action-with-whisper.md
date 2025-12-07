@@ -1,3 +1,10 @@
+---
+id: "lesson-5-2-voice-to-action"
+title: "Lesson 5.2 — Voice-to-Action with Whisper"
+sidebar_label: "Lesson 5.2: Voice-to-Action"
+sidebar: tutorialSidebar
+---
+
 # Lesson 5.2: Voice-to-Action with Whisper
 
 Voice-to-Action allows robots to understand spoken commands using speech recognition models like Whisper.

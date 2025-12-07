@@ -5,10 +5,10 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/robotics-book/docs/intro",
+  "permalink": "/Physical-AI-Humanoid-Robotics/docs/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/intro.md",
+  "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/intro.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lesson 6.3: Deployment & Assessment",
-    "permalink": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-3-deployment-assessment"
+    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-06-capstone-project/lesson-6-3-deployment-assessment"
   }
 }
