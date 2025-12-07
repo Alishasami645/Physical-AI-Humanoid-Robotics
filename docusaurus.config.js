@@ -1,7 +1,7 @@
 module.exports = {
   title: "Physical AI & Humanoid Robotics",
   url: "https://alishasami645.github.io",
-  baseUrl: "/Physical-AI-Humanoid-Robotics",
+  baseUrl: "/Physical-AI-Humanoid-Robotics/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
 
@@ -15,7 +15,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-            "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/",
+            "https://github.com/Alishasami645/Physical-AI-Humanoid-Robotics/tree/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -24,10 +24,9 @@ module.exports = {
     ],
   ],
 
-  // ✅ New markdown hooks to replace deprecated option
   markdown: {
     hooks: {
-      onBrokenMarkdownLinks: "warn", // or "throw" if you want build to fail on broken links
+      onBrokenMarkdownLinks: "warn",
     },
   },
 
@@ -38,12 +37,12 @@ module.exports = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar", // must match sidebars.js
+          sidebarId: "tutorialSidebar",
           position: "left",
           label: "Book",
         },
         {
-          href: "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics",
+          href: "https://github.com/Alishasami645/Physical-AI-Humanoid-Robotics",
           label: "GitHub",
           position: "right",
         },

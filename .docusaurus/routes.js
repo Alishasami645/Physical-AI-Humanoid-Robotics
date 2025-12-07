@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Physical-AI-Humanoid-Robotics/__docusaurus/debug',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics/__docusaurus/debug', 'c33'),
-    exact: true
-  },
-  {
-    path: '/Physical-AI-Humanoid-Robotics/__docusaurus/debug/config',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics/__docusaurus/debug/config', 'c76'),
-    exact: true
-  },
-  {
-    path: '/Physical-AI-Humanoid-Robotics/__docusaurus/debug/content',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics/__docusaurus/debug/content', '225'),
-    exact: true
-  },
-  {
-    path: '/Physical-AI-Humanoid-Robotics/__docusaurus/debug/globalData',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics/__docusaurus/debug/globalData', '7c7'),
-    exact: true
-  },
-  {
-    path: '/Physical-AI-Humanoid-Robotics/__docusaurus/debug/metadata',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics/__docusaurus/debug/metadata', '349'),
-    exact: true
-  },
-  {
-    path: '/Physical-AI-Humanoid-Robotics/__docusaurus/debug/registry',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics/__docusaurus/debug/registry', '99b'),
-    exact: true
-  },
-  {
-    path: '/Physical-AI-Humanoid-Robotics/__docusaurus/debug/routes',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics/__docusaurus/debug/routes', '61a'),
-    exact: true
-  },
-  {
     path: '/Physical-AI-Humanoid-Robotics/markdown-page',
     component: ComponentCreator('/Physical-AI-Humanoid-Robotics/markdown-page', 'aa8'),
     exact: true

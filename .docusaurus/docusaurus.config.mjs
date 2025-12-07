@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Physical AI Humanoid Robotics",
+  "title": "Physical AI & Humanoid Robotics",
   "url": "https://alishasami645.github.io",
   "baseUrl": "/Physical-AI-Humanoid-Robotics/",
   "onBrokenLinks": "throw",
@@ -17,7 +17,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "E:\\Quarter-4\\Q4\\Hackathons\\robotics-book\\sidebars.js",
-          "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/"
+          "editUrl": "https://github.com/Alishasami645/Physical-AI-Humanoid-Robotics/tree/main/"
         },
         "theme": {
           "customCss": "E:\\Quarter-4\\Q4\\Hackathons\\robotics-book\\src\\css\\custom.css"
@@ -25,9 +25,30 @@ export default {
       }
     ]
   ],
+  "markdown": {
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
+    },
+    "format": "mdx",
+    "mermaid": false,
+    "emoji": true,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    }
+  },
   "themeConfig": {
     "navbar": {
-      "title": "Physical AI Robotics",
+      "title": "Physical AI & Humanoid Robotics",
+      "logo": {
+        "alt": "Logo",
+        "src": "img/logo-book.png"
+      },
       "items": [
         {
           "type": "docSidebar",
@@ -36,7 +57,7 @@ export default {
           "label": "Book"
         },
         {
-          "href": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics",
+          "href": "https://github.com/Alishasami645/Physical-AI-Humanoid-Robotics",
           "label": "GitHub",
           "position": "right"
         }
@@ -252,22 +273,5 @@ export default {
   "clientModules": [],
   "tagline": "",
   "titleDelimiter": "|",
-  "noIndex": false,
-  "markdown": {
-    "format": "mdx",
-    "mermaid": false,
-    "emoji": true,
-    "mdx1Compat": {
-      "comments": true,
-      "admonitions": true,
-      "headingIds": true
-    },
-    "anchors": {
-      "maintainCase": false
-    },
-    "hooks": {
-      "onBrokenMarkdownLinks": "warn",
-      "onBrokenMarkdownImages": "throw"
-    }
-  }
+  "noIndex": false
 };
