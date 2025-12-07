@@ -1,7 +1,7 @@
 module.exports = {
   title: "Physical AI & Humanoid Robotics",
   url: "https://alishasami645.github.io",
-  baseUrl: "/Physical-AI-Humanoid-Robotics/",
+  baseUrl: "/Physical-AI-Humanoid-Robotics",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
 
