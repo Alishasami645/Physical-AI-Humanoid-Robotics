@@ -4,7 +4,7 @@ const config = {
   title: 'Physical AI & Humanoid Robotics',
   tagline: 'Bringing Artificial Intelligence to Life, Guiding Humanoid Robots from Simulation to Reality.',
   favicon: 'img/favicon.ico',
-  url: 'https://github.com/Alishasami645/Physical-AI-Humanoid-Robotics',
+  url: 'https://github.com/Alishasami645',
   baseUrl: '/robotics-book/',
   organizationName: 'Alishasami645',
   projectName: 'robotics-book',
