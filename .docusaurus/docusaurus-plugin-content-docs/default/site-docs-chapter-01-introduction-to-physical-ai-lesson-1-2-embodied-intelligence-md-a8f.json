@@ -1,0 +1,24 @@
+{
+  "id": "chapter-01-introduction-to-physical-ai/lesson-1-2-embodied-intelligence",
+  "title": "Lesson 1.2: Embodied Intelligence",
+  "description": "Embodied Intelligence is the principle that intelligence emerges through interaction between a body and its environment. Physical AI leverages this by combining sensors, actuators, and AI algorithms in a feedback loop.",
+  "source": "@site/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied-intelligence.md",
+  "sourceDirName": "chapter-01-introduction-to-physical-ai",
+  "slug": "/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied-intelligence",
+  "permalink": "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied-intelligence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied-intelligence.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 1.1: What is Physical AI",
+    "permalink": "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai"
+  },
+  "next": {
+    "title": "Lesson 1.3: Course Overview & Learning Outcomes",
+    "permalink": "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-3-course-overview"
+  }
+}

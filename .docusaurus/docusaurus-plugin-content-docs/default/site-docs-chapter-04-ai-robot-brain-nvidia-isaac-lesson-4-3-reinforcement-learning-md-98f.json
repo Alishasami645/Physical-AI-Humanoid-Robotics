@@ -1,0 +1,24 @@
+{
+  "id": "chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning",
+  "title": "Lesson 4.3: Reinforcement Learning & Sim-to-Real Transfer",
+  "description": "Reinforcement Learning (RL) allows robots to learn tasks by trial and error in simulation before transferring skills to real robots.",
+  "source": "@site/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning.md",
+  "sourceDirName": "chapter-04-ai-robot-brain-nvidia-isaac",
+  "slug": "/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning",
+  "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 4.2: Isaac ROS for Navigation",
+    "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation"
+  },
+  "next": {
+    "title": "Lesson 5.1: LLM Integration",
+    "permalink": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration"
+  }
+}

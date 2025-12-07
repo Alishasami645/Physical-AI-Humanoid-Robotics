@@ -1,0 +1,24 @@
+{
+  "id": "chapter-05-vision-language-action-vla/lesson-5-1-llm-integration",
+  "title": "Lesson 5.1: LLM Integration",
+  "description": "Large Language Models (LLMs) can be integrated into robots to enable understanding of natural language commands and reasoning.",
+  "source": "@site/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration.md",
+  "sourceDirName": "chapter-05-vision-language-action-vla",
+  "slug": "/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration",
+  "permalink": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 4.3: Reinforcement Learning & Sim-to-Real Transfer",
+    "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning"
+  },
+  "next": {
+    "title": "Lesson 5.2: Voice-to-Action with Whisper",
+    "permalink": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action-with-whisper"
+  }
+}

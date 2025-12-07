@@ -1,0 +1,24 @@
+{
+  "id": "chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview",
+  "title": "Lesson 4.1: Isaac Sim Overview",
+  "description": "NVIDIA Isaac Sim is a robotics simulation platform that enables testing AI algorithms in photorealistic 3D environments.",
+  "source": "@site/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview.md",
+  "sourceDirName": "chapter-04-ai-robot-brain-nvidia-isaac",
+  "slug": "/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview",
+  "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 3.3: High-Fidelity Rendering with Unity",
+    "permalink": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity-rendering-with-unity"
+  },
+  "next": {
+    "title": "Lesson 4.2: Isaac ROS for Navigation",
+    "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation"
+  }
+}

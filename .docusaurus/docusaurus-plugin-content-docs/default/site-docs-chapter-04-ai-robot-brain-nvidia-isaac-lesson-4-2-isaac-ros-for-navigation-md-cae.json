@@ -1,0 +1,24 @@
+{
+  "id": "chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation",
+  "title": "Lesson 4.2: Isaac ROS for Navigation",
+  "description": "Isaac ROS provides prebuilt ROS 2 packages and nodes for robot navigation, including path planning, mapping, and control.",
+  "source": "@site/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation.md",
+  "sourceDirName": "chapter-04-ai-robot-brain-nvidia-isaac",
+  "slug": "/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation",
+  "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-2-isaac-ros-for-navigation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 4.1: Isaac Sim Overview",
+    "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview"
+  },
+  "next": {
+    "title": "Lesson 4.3: Reinforcement Learning & Sim-to-Real Transfer",
+    "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-reinforcement-learning"
+  }
+}

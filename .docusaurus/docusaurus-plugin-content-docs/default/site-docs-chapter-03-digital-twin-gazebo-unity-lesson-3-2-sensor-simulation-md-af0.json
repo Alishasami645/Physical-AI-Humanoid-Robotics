@@ -1,0 +1,24 @@
+{
+  "id": "chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor-simulation",
+  "title": "Lesson 3.2: Sensor Simulation (LiDAR, Cameras, IMU)",
+  "description": "Simulating sensors in Gazebo or Unity allows testing perception and control algorithms without a real robot.",
+  "source": "@site/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor-simulation.md",
+  "sourceDirName": "chapter-03-digital-twin-gazebo-unity",
+  "slug": "/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor-simulation",
+  "permalink": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor-simulation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 3.1: Gazebo Simulation Basics",
+    "permalink": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo-simulation-basics"
+  },
+  "next": {
+    "title": "Lesson 3.3: High-Fidelity Rendering with Unity",
+    "permalink": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity-rendering-with-unity"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning",
+  "title": "Lesson 5.3: Cognitive Planning & Multi-modal Interaction",
+  "description": "Cognitive planning allows robots to combine multiple sensory inputs and reasoning for complex task execution.",
+  "source": "@site/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning.md",
+  "sourceDirName": "chapter-05-vision-language-action-vla",
+  "slug": "/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning",
+  "permalink": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 5.2: Voice-to-Action with Whisper",
+    "permalink": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action-with-whisper"
+  },
+  "next": {
+    "title": "Lesson 6.1: Autonomous Humanoid Overview",
+    "permalink": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chapter-06-capstone-project/lesson-6-3-deployment-assessment",
+  "title": "Lesson 6.3: Deployment & Assessment",
+  "description": "Deployment involves testing the humanoid in real-world scenarios and evaluating performance.",
+  "source": "@site/docs/chapter-06-capstone-project/lesson-6-3-deployment-assessment.md",
+  "sourceDirName": "chapter-06-capstone-project",
+  "slug": "/chapter-06-capstone-project/lesson-6-3-deployment-assessment",
+  "permalink": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-3-deployment-assessment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-06-capstone-project/lesson-6-3-deployment-assessment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 6.2: Integration of Modules",
+    "permalink": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-2-integration-of-modules"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/robotics-book/docs/intro"
+  }
+}
