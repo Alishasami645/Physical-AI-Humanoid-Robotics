@@ -3,7 +3,6 @@ module.exports = {
   url: "https://alishasami645.github.io",
   baseUrl: "/Physical-AI-Humanoid-Robotics/",
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
   organizationName: "alishasami645",
@@ -25,10 +24,17 @@ module.exports = {
     ],
   ],
 
+  // ✅ New markdown hooks to replace deprecated option
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn", // or "throw" if you want build to fail on broken links
+    },
+  },
+
   themeConfig: {
     navbar: {
       title: "Physical AI & Humanoid Robotics",
-      logo: { alt: 'Logo', src: 'img/logo-book.png' },
+      logo: { alt: "Logo", src: "img/logo-book.png" },
       items: [
         {
           type: "docSidebar",
@@ -45,6 +51,3 @@ module.exports = {
     },
   },
 };
-
-
-
