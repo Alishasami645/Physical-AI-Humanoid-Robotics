@@ -5,10 +5,10 @@
   "source": "@site/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions.md",
   "sourceDirName": "chapter-02-robotic-nervous-system-ros-2",
   "slug": "/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions",
-  "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions",
+  "permalink": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions.md",
+  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lesson 2.1: ROS 2 Architecture",
-    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-1-rOS 2 architecture"
+    "permalink": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-1-rOS 2 architecture"
   },
   "next": {
     "title": "Lesson 2.3: Python Integration",
-    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python integration"
+    "permalink": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python integration"
   }
 }

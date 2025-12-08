@@ -5,10 +5,10 @@
   "source": "@site/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python-integration.md",
   "sourceDirName": "chapter-02-robotic-nervous-system-ros-2",
   "slug": "/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python integration",
-  "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python integration",
+  "permalink": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python integration",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python-integration.md",
+  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-3-python-integration.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lesson 2.2: Nodes, Topics, Services, Actions",
-    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions"
+    "permalink": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-2-nodes-topics-services-actions"
   },
   "next": {
     "title": "Lesson 2.4: URDF for Humanoids",
-    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf for humanoids"
+    "permalink": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf for humanoids"
   }
 }

@@ -5,10 +5,10 @@
   "source": "@site/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai.md",
   "sourceDirName": "chapter-01-introduction-to-physical-ai",
   "slug": "/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
-  "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
+  "permalink": "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai.md",
+  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-01-introduction-to-physical-ai/lesson-1-1-what-is-physical-ai.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -20,6 +20,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Lesson 1.2: Embodied Intelligence",
-    "permalink": "/Physical-AI-Humanoid-Robotics/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied intelligence"
+    "permalink": "/robotics-book/docs/chapter-01-introduction-to-physical-ai/lesson-1-2-embodied intelligence"
   }
 }
