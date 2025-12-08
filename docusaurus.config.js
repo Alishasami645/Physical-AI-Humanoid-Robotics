@@ -1,62 +1,11 @@
-// module.exports = {
-//   title: "Physical AI & Humanoid Robotics",
-//   url: "https://alishasami645.github.io",
-//   baseUrl: "/Physical-AI-Humanoid-Robotics/",
-//   onBrokenLinks: "throw",
-//   onBrokenMarkdownLinks: "warn",
-//   favicon: "img/favicon.ico",
+import { themes as prismThemes } from 'prism-react-renderer';
 
-//   organizationName: "alishasami645",
-//   projectName: "Physical-AI-Humanoid-Robotics",
-
-//   presets: [
-//     [
-//       "@docusaurus/preset-classic",
-//       {
-//         docs: {
-//           sidebarPath: require.resolve("./sidebars.js"),
-//           editUrl:
-//             "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/",
-//         },
-//         theme: {
-//           customCss: require.resolve("./src/css/custom.css"),
-//         },
-//       },
-//     ],
-//   ],
-  
-
-//   themeConfig: {
-//     navbar: {
-//       title: "Physical AI & Humanoid Robotics",
-//       logo: { alt: 'Logo', src: 'img/logo-book.png' },
-//       items: [
-//         {
-//           type: "docSidebar",
-//           sidebarId: "tutorialSidebar", // must match sidebars.js
-//           position: "left",
-//           label: "Book",
-//         },
-//         {
-//           href: "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics",
-//           label: "GitHub",
-//           position: "right",
-//         },
-//       ],
-//     },
-//   },
-// };
-
-
-
-
-const {themes: prismThemes} = require('prism-react-renderer');
 
 const config = {
   title: 'Physical AI & Humanoid Robotics',
   tagline: 'Bringing Artificial Intelligence to Life, Guiding Humanoid Robots from Simulation to Reality.',
   favicon: 'img/favicon.ico',
-  url: 'https://alishasami645.github.io',
+  url: 'https://alishasami645',
   baseUrl: '/Physical-AI-Humanoid-Robotics/',
   organizationName: 'alishasami645',
   projectName: 'Physical-AI-Humanoid-Robotics',
