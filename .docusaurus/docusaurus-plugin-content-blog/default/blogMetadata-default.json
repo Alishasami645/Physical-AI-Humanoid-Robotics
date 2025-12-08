@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/robotics-book/blog",
+  "blogBasePath": "/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/robotics-book/blog/authors"
+  "authorsListPath": "/blog/authors"
 }

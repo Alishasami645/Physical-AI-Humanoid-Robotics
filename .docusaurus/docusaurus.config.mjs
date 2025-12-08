@@ -7,10 +7,10 @@ export default {
   "title": "Physical AI & Humanoid Robotics",
   "tagline": "Bringing Artificial Intelligence to Life, Guiding Humanoid Robots from Simulation to Reality.",
   "favicon": "img/favicon.ico",
-  "url": "https://YOUR_USERNAME.github.io",
-  "baseUrl": "/robotics-book/",
-  "organizationName": "YOUR_USERNAME",
-  "projectName": "robotics-book",
+  "url": "https://physical-ai-humanoid-robotics.vercel.app",
+  "baseUrl": "/",
+  "organizationName": "Alishasami645",
+  "projectName": "Physical-AI-Humanoid-Robotics",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
@@ -26,7 +26,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/"
+          "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"

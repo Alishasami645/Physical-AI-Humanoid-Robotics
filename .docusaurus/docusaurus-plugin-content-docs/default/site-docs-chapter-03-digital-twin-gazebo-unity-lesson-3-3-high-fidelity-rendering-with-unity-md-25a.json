@@ -5,10 +5,10 @@
   "source": "@site/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity-rendering-with-unity.md",
   "sourceDirName": "chapter-03-digital-twin-gazebo-unity",
   "slug": "/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity rendering with unity",
-  "permalink": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity rendering with unity",
+  "permalink": "/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity rendering with unity",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity-rendering-with-unity.md",
+  "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-3-high-fidelity-rendering-with-unity.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lesson 3.2: Sensor Simulation",
-    "permalink": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor simulation"
+    "permalink": "/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor simulation"
   },
   "next": {
     "title": "Lesson 4.1: Isaac Sim Overview",
-    "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview"
+    "permalink": "/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-1-isaac-sim-overview"
   }
 }

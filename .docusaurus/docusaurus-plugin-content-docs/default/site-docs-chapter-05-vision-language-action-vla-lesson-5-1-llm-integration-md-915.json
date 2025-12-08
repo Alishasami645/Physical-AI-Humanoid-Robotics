@@ -5,10 +5,10 @@
   "source": "@site/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration.md",
   "sourceDirName": "chapter-05-vision-language-action-vla",
   "slug": "/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration",
-  "permalink": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration",
+  "permalink": "/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration.md",
+  "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-05-vision-language-action-vla/lesson-5-1-llm-integration.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lesson 4.3: RL & Sim-to-Real",
-    "permalink": "/robotics-book/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-rl-sim-to-real"
+    "permalink": "/docs/chapter-04-ai-robot-brain-nvidia-isaac/lesson-4-3-rl-sim-to-real"
   },
   "next": {
     "title": "Lesson 5.2: Voice-to-Action",
-    "permalink": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action"
+    "permalink": "/docs/chapter-05-vision-language-action-vla/lesson-5-2-voice-to-action"
   }
 }

@@ -5,10 +5,10 @@
   "source": "@site/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview.md",
   "sourceDirName": "chapter-06-capstone-project",
   "slug": "/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview",
-  "permalink": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview",
+  "permalink": "/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview.md",
+  "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-06-capstone-project/lesson-6-1-autonomous-humanoid-overview.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lesson 5.3: Cognitive Planning",
-    "permalink": "/robotics-book/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning"
+    "permalink": "/docs/chapter-05-vision-language-action-vla/lesson-5-3-cognitive-planning"
   },
   "next": {
     "title": "Lesson 6.2: Integration of Modules",
-    "permalink": "/robotics-book/docs/chapter-06-capstone-project/lesson-6-2-integration-of-modules"
+    "permalink": "/docs/chapter-06-capstone-project/lesson-6-2-integration-of-modules"
   }
 }

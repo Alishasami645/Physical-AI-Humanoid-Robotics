@@ -5,10 +5,10 @@
   "source": "@site/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo-simulation-basics.md",
   "sourceDirName": "chapter-03-digital-twin-gazebo-unity",
   "slug": "/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo simulation basics",
-  "permalink": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo simulation basics",
+  "permalink": "/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo simulation basics",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/YOUR_USERNAME/robotics-book/tree/main/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo-simulation-basics.md",
+  "editUrl": "https://github.com/alishasami645/Physical-AI-Humanoid-Robotics/tree/main/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-1-gazebo-simulation-basics.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lesson 2.4: URDF for Humanoids",
-    "permalink": "/robotics-book/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf for humanoids"
+    "permalink": "/docs/chapter-02-robotic-nervous-system-ros-2/lesson-2-4-urdf for humanoids"
   },
   "next": {
     "title": "Lesson 3.2: Sensor Simulation",
-    "permalink": "/robotics-book/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor simulation"
+    "permalink": "/docs/chapter-03-digital-twin-gazebo-unity/lesson-3-2-sensor simulation"
   }
 }

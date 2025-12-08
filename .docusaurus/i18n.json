@@ -13,8 +13,8 @@
       "calendar": "gregory",
       "path": "en",
       "translate": false,
-      "url": "https://YOUR_USERNAME.github.io",
-      "baseUrl": "/robotics-book/"
+      "url": "https://physical-ai-humanoid-robotics.vercel.app",
+      "baseUrl": "/"
     }
   }
 }

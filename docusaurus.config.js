@@ -5,9 +5,9 @@ const config = {
   title: 'Physical AI & Humanoid Robotics',
   tagline: 'Bringing Artificial Intelligence to Life, Guiding Humanoid Robots from Simulation to Reality.',
   favicon: 'img/favicon.ico',
-  url: 'https://alishasami645',
-  baseUrl: '/Physical-AI-Humanoid-Robotics/',
-  organizationName: 'alishasami645',
+  url: 'https://physical-ai-humanoid-robotics.vercel.app',
+  baseUrl: '/',
+  organizationName: 'Alishasami645',
   projectName: 'Physical-AI-Humanoid-Robotics',
   onBrokenLinks: 'throw',
   i18n: {
@@ -53,3 +53,4 @@ const config = {
 };
 
 module.exports = config;
+

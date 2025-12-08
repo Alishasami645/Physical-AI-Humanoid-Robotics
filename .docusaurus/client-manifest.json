@@ -27,6 +27,9 @@
       869,
       354
     ],
+    "0058b4c6": [
+      849
+    ],
     "0b376b8b": [
       53
     ],
@@ -53,9 +56,6 @@
     ],
     "465ffd67": [
       819
-    ],
-    "55eb410f": [
-      575
     ],
     "5828e5e0": [
       167
@@ -133,27 +133,27 @@
     "8": {
       "js": [
         {
-          "file": "assets/js/b6252684.f4cf621b.js",
-          "hash": "ae60178aa827817f",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/b6252684.f4cf621b.js"
+          "file": "assets/js/b6252684.b615b25b.js",
+          "hash": "c7047f81e19681ad",
+          "publicPath": "/assets/js/b6252684.b615b25b.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "assets/js/98fa01bb.8402d943.js",
-          "hash": "971df63e0bf94d94",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/98fa01bb.8402d943.js"
+          "file": "assets/js/98fa01bb.de8f0e19.js",
+          "hash": "06bcab6c2b59450c",
+          "publicPath": "/assets/js/98fa01bb.de8f0e19.js"
         }
       ]
     },
     "46": {
       "js": [
         {
-          "file": "assets/js/66f16682.ffaef0c0.js",
-          "hash": "52c93ebbbd62ce10",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/66f16682.ffaef0c0.js"
+          "file": "assets/js/66f16682.f39d9b57.js",
+          "hash": "3a830e9bba21fa7d",
+          "publicPath": "/assets/js/66f16682.f39d9b57.js"
         }
       ]
     },
@@ -162,16 +162,16 @@
         {
           "file": "assets/js/a94703ab.7f77e175.js",
           "hash": "8d0740bab697b9d5",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/a94703ab.7f77e175.js"
+          "publicPath": "/assets/js/a94703ab.7f77e175.js"
         }
       ]
     },
     "53": {
       "js": [
         {
-          "file": "assets/js/0b376b8b.13172b85.js",
-          "hash": "8b60407c46688fc1",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/0b376b8b.13172b85.js"
+          "file": "assets/js/0b376b8b.1fd99cb9.js",
+          "hash": "433aa57557bda5cd",
+          "publicPath": "/assets/js/0b376b8b.1fd99cb9.js"
         }
       ]
     },
@@ -180,16 +180,16 @@
         {
           "file": "assets/js/1f391b9e.ec7090b9.js",
           "hash": "62934f270da657e1",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/1f391b9e.ec7090b9.js"
+          "publicPath": "/assets/js/1f391b9e.ec7090b9.js"
         }
       ]
     },
     "88": {
       "js": [
         {
-          "file": "assets/js/70b80527.802a078d.js",
-          "hash": "15f9ccaf23655aff",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/70b80527.802a078d.js"
+          "file": "assets/js/70b80527.74a8400c.js",
+          "hash": "6c213b1096827cc0",
+          "publicPath": "/assets/js/70b80527.74a8400c.js"
         }
       ]
     },
@@ -198,25 +198,25 @@
         {
           "file": "assets/js/a7bd4aaa.12542165.js",
           "hash": "f925756834c5a078",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/a7bd4aaa.12542165.js"
+          "publicPath": "/assets/js/a7bd4aaa.12542165.js"
         }
       ]
     },
     "134": {
       "js": [
         {
-          "file": "assets/js/393be207.ec07f635.js",
-          "hash": "c97c59776938cbf3",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/393be207.ec07f635.js"
+          "file": "assets/js/393be207.ee5dd886.js",
+          "hash": "12bb37c49608de6e",
+          "publicPath": "/assets/js/393be207.ee5dd886.js"
         }
       ]
     },
     "167": {
       "js": [
         {
-          "file": "assets/js/5828e5e0.21bd359b.js",
-          "hash": "195c8e3129a3de53",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/5828e5e0.21bd359b.js"
+          "file": "assets/js/5828e5e0.3d703825.js",
+          "hash": "4fbfb56eaa8c1d0e",
+          "publicPath": "/assets/js/5828e5e0.3d703825.js"
         }
       ]
     },
@@ -225,7 +225,7 @@
         {
           "file": "assets/js/a7456010.91a97e9c.js",
           "hash": "95c78d75a11d2e05",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/a7456010.91a97e9c.js"
+          "publicPath": "/assets/js/a7456010.91a97e9c.js"
         }
       ]
     },
@@ -234,25 +234,25 @@
         {
           "file": "assets/js/237.b16ce835.js",
           "hash": "0ea90b5a5b3c6122",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/237.b16ce835.js"
+          "publicPath": "/assets/js/237.b16ce835.js"
         }
       ]
     },
     "241": {
       "js": [
         {
-          "file": "assets/js/655d15b2.4fde1dfd.js",
-          "hash": "6c0c6eb8cc4dfd37",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/655d15b2.4fde1dfd.js"
+          "file": "assets/js/655d15b2.4763f017.js",
+          "hash": "09dc1330ad7441ff",
+          "publicPath": "/assets/js/655d15b2.4763f017.js"
         }
       ]
     },
     "277": {
       "js": [
         {
-          "file": "assets/js/a8f59f6a.7cd97068.js",
-          "hash": "dd6aa42f445c138b",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/a8f59f6a.7cd97068.js"
+          "file": "assets/js/a8f59f6a.0f259aae.js",
+          "hash": "d83af8c6288f3606",
+          "publicPath": "/assets/js/a8f59f6a.0f259aae.js"
         }
       ]
     },
@@ -261,34 +261,34 @@
         {
           "file": "assets/js/285.24c8f9dc.js",
           "hash": "a582e2d6773379a7",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/285.24c8f9dc.js"
+          "publicPath": "/assets/js/285.24c8f9dc.js"
         }
       ]
     },
     "302": {
       "js": [
         {
-          "file": "assets/js/af0279f0.d440a78c.js",
-          "hash": "681266edc71db8e1",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/af0279f0.d440a78c.js"
+          "file": "assets/js/af0279f0.c32b9b4b.js",
+          "hash": "2f8858ce7f73479f",
+          "publicPath": "/assets/js/af0279f0.c32b9b4b.js"
         }
       ]
     },
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.786b04e4.js",
-          "hash": "a1c37aef2f22724c",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/runtime~main.786b04e4.js"
+          "file": "assets/js/runtime~main.4e34767d.js",
+          "hash": "44cb3ed21c43f291",
+          "publicPath": "/assets/js/runtime~main.4e34767d.js"
         }
       ]
     },
     "368": {
       "js": [
         {
-          "file": "assets/js/91a06c13.40ce1770.js",
-          "hash": "672e7ee64df8b942",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/91a06c13.40ce1770.js"
+          "file": "assets/js/91a06c13.6a30391c.js",
+          "hash": "9d5ae8c2e74658ef",
+          "publicPath": "/assets/js/91a06c13.6a30391c.js"
         }
       ]
     },
@@ -297,34 +297,25 @@
         {
           "file": "assets/js/17896441.2094e3c9.js",
           "hash": "bb6a138a0fc17ecb",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/17896441.2094e3c9.js"
+          "publicPath": "/assets/js/17896441.2094e3c9.js"
         }
       ]
     },
     "454": {
       "js": [
         {
-          "file": "assets/js/91517b9a.66b8087c.js",
-          "hash": "b0b24e9e031784f1",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/91517b9a.66b8087c.js"
+          "file": "assets/js/91517b9a.dd505929.js",
+          "hash": "2e08f727732b33f5",
+          "publicPath": "/assets/js/91517b9a.dd505929.js"
         }
       ]
     },
     "555": {
       "js": [
         {
-          "file": "assets/js/e1f0e14f.0021b445.js",
-          "hash": "c8f6cdcec0ba072b",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/e1f0e14f.0021b445.js"
-        }
-      ]
-    },
-    "575": {
-      "js": [
-        {
-          "file": "assets/js/55eb410f.adbd75df.js",
-          "hash": "896b8451624d577a",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/55eb410f.adbd75df.js"
+          "file": "assets/js/e1f0e14f.95b2bbb0.js",
+          "hash": "c3d7d0031d45f58b",
+          "publicPath": "/assets/js/e1f0e14f.95b2bbb0.js"
         }
       ]
     },
@@ -333,7 +324,7 @@
         {
           "file": "assets/js/1df93b7f.0d22eeb4.js",
           "hash": "e3a5795013b76efc",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/1df93b7f.0d22eeb4.js"
+          "publicPath": "/assets/js/1df93b7f.0d22eeb4.js"
         }
       ]
     },
@@ -342,25 +333,25 @@
         {
           "file": "assets/js/5e95c892.34919fe5.js",
           "hash": "c5faac4b9aa1b07e",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/5e95c892.34919fe5.js"
+          "publicPath": "/assets/js/5e95c892.34919fe5.js"
         }
       ]
     },
     "677": {
       "js": [
         {
-          "file": "assets/js/6e80434b.87a2d097.js",
-          "hash": "51a79c954561fc56",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/6e80434b.87a2d097.js"
+          "file": "assets/js/6e80434b.c4c0970f.js",
+          "hash": "57dde1fdbe581b41",
+          "publicPath": "/assets/js/6e80434b.c4c0970f.js"
         }
       ]
     },
     "736": {
       "js": [
         {
-          "file": "assets/js/a4e5853b.553a9c87.js",
-          "hash": "637fdf4cae760b40",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/a4e5853b.553a9c87.js"
+          "file": "assets/js/a4e5853b.5d86e558.js",
+          "hash": "2e7574655648da40",
+          "publicPath": "/assets/js/a4e5853b.5d86e558.js"
         }
       ]
     },
@@ -369,52 +360,61 @@
         {
           "file": "assets/js/aba21aa0.441f68df.js",
           "hash": "d83b8dfe20351a66",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/aba21aa0.441f68df.js"
+          "publicPath": "/assets/js/aba21aa0.441f68df.js"
         }
       ]
     },
     "792": {
       "js": [
         {
-          "file": "assets/js/main.bbeb2850.js",
-          "hash": "27c3527f093865f3",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/main.bbeb2850.js"
+          "file": "assets/js/main.fa2952b3.js",
+          "hash": "99ce3707309e5b9e",
+          "publicPath": "/assets/js/main.fa2952b3.js"
         }
       ]
     },
     "816": {
       "js": [
         {
-          "file": "assets/js/25a7a652.c44527c4.js",
-          "hash": "28a0d149105db65f",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/25a7a652.c44527c4.js"
+          "file": "assets/js/25a7a652.45c25780.js",
+          "hash": "c44e5562e433358d",
+          "publicPath": "/assets/js/25a7a652.45c25780.js"
         }
       ]
     },
     "819": {
       "js": [
         {
-          "file": "assets/js/465ffd67.a73655eb.js",
-          "hash": "280b26baea750dc8",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/465ffd67.a73655eb.js"
+          "file": "assets/js/465ffd67.2135b310.js",
+          "hash": "c7e1a47b3fd13878",
+          "publicPath": "/assets/js/465ffd67.2135b310.js"
         }
       ]
     },
     "836": {
       "js": [
         {
-          "file": "assets/js/caedde70.80990a9a.js",
-          "hash": "1f058d546b8ee177",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/caedde70.80990a9a.js"
+          "file": "assets/js/caedde70.571ced98.js",
+          "hash": "ea7cffd34f53f859",
+          "publicPath": "/assets/js/caedde70.571ced98.js"
+        }
+      ]
+    },
+    "849": {
+      "js": [
+        {
+          "file": "assets/js/0058b4c6.385007eb.js",
+          "hash": "30820d9a8f53933f",
+          "publicPath": "/assets/js/0058b4c6.385007eb.js"
         }
       ]
     },
     "851": {
       "js": [
         {
-          "file": "assets/js/9eb08714.443f5e66.js",
-          "hash": "8beae9cd3fe9c4e2",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/9eb08714.443f5e66.js"
+          "file": "assets/js/9eb08714.789106dd.js",
+          "hash": "64fcca6babf8ac5b",
+          "publicPath": "/assets/js/9eb08714.789106dd.js"
         }
       ]
     },
@@ -423,25 +423,25 @@
         {
           "file": "assets/css/styles.f49dc43e.css",
           "hash": "b0e659b9fa2b4a72",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/css/styles.f49dc43e.css"
+          "publicPath": "/assets/css/styles.f49dc43e.css"
         }
       ]
     },
     "976": {
       "js": [
         {
-          "file": "assets/js/0e384e19.b557c573.js",
-          "hash": "519377c7fdda3020",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/0e384e19.b557c573.js"
+          "file": "assets/js/0e384e19.171de7f8.js",
+          "hash": "2ca196aa14987b66",
+          "publicPath": "/assets/js/0e384e19.171de7f8.js"
         }
       ]
     },
     "987": {
       "js": [
         {
-          "file": "assets/js/2fb0344c.31656e7c.js",
-          "hash": "f56a5a2c7f4df223",
-          "publicPath": "/Physical-AI-Humanoid-Robotics/assets/js/2fb0344c.31656e7c.js"
+          "file": "assets/js/2fb0344c.77dc3ef0.js",
+          "hash": "4cae4e4cb4d2a58b",
+          "publicPath": "/assets/js/2fb0344c.77dc3ef0.js"
         }
       ]
     }
