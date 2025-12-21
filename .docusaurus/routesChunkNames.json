@@ -49,6 +49,20 @@
     },
     "content": "content---markdown-page-393-028"
   },
+  "/signin-ba0": {
+    "__comp": "__comp---site-src-pages-signin-tsx-6-f-7-bfe",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---signin-5-e-9-07f"
+  },
+  "/signup-312": {
+    "__comp": "__comp---site-src-pages-signup-tsx-8-d-9-369",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---signin-5-e-9-07f"
+  },
   "/docs-d57": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
@@ -147,6 +161,6 @@
     "__context": {
       "plugin": "plugin---markdown-pagea-74-7b5"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---signin-5-e-9-07f"
   }
 }

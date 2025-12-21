@@ -55,6 +55,16 @@ export default {
           "label": "Book"
         },
         {
+          "to": "/signup",
+          "label": "📝 Sign Up",
+          "position": "right"
+        },
+        {
+          "to": "/signin",
+          "label": "🔐 Sign In",
+          "position": "right"
+        },
+        {
           "href": "https://github.com/Alishasami645",
           "label": "GitHub",
           "position": "right"

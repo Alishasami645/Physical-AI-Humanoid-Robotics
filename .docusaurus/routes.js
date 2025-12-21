@@ -43,6 +43,16 @@ export default [
     exact: true
   },
   {
+    path: '/signin',
+    component: ComponentCreator('/signin', 'ba0'),
+    exact: true
+  },
+  {
+    path: '/signup',
+    component: ComponentCreator('/signup', '312'),
+    exact: true
+  },
+  {
     path: '/docs',
     component: ComponentCreator('/docs', 'd57'),
     routes: [
