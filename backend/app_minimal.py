@@ -1079,11 +1079,3 @@ Or type **"introduction"** to get started!""",
         ],
         "query": request.query
     }
-
-if __name__ == "__main__":
-    import uvicorn
-    print("[*] Starting Robotics Chatbot Backend...")
-    print("[*] http://localhost:8000")
-    print("[*] API Docs: http://localhost:8000/docs")
-    print("[*] Health: http://localhost:8000/health")
-    uvicorn.run(app, host="127.0.0.1", port=8000, log_level="info")
