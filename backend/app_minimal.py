@@ -49,226 +49,30 @@ async def health():
 
 @app.post("/api/chat")
 async def chat(request: ChatRequest):
-    """Chat endpoint with comprehensive book responses"""
+    """Chat endpoint with SHORT, SIMPLE answers"""
     if not request.query.strip():
         raise HTTPException(status_code=400, detail="Query cannot be empty")
     
     query = request.query.lower()
     
-    # Book structure response
+    # Book structure response - SHORT VERSION
     if "chapter" in query or "lesson" in query or "topic" in query or "structure" in query or "kitne" in query or "book" in query or "course" in query:
         return {
-            "answer": """# Physical AI & Humanoid Robotics - Complete Book Structure
+            "answer": """# Book Structure
 
-## Overview
-This comprehensive course has **6 Chapters** with **19 Lessons** covering everything needed to build intelligent humanoid robots.
+## 6 Chapters Overview
 
----
+**Ch 1:** Introduction to Physical AI (3 lessons)
+**Ch 2:** ROS 2 - Robotic Nervous System (4 lessons)
+**Ch 3:** Digital Twin & Simulation with Gazebo & Unity (3 lessons)
+**Ch 4:** AI Robot Brain - NVIDIA Isaac (3 lessons)
+**Ch 5:** Vision-Language-Action Models (3 lessons)
+**Ch 6:** Capstone Project - Build Your Own Robot (3 lessons)
 
-## CHAPTER 1: Introduction to Physical AI (3 Lessons)
+Total: 6 Chapters with 19 Lessons
 
-**Chapter Overview:** Understand what Physical AI is and why it matters.
+Each chapter builds on the previous one. Start with Chapter 1! 
 
-### Lesson 1.1 - What is Physical AI?
-- Definition: AI that interacts with the physical world
-- Difference from traditional AI
-- Real-world impact and applications
-- Why robots need physical understanding
-
-### Lesson 1.2 - Embodied Intelligence
-- Intelligence comes from having a body
-- Sensors and actuators as intelligence
-- How physical constraints shape learning
-- Examples: Humanoid vs wheeled robots
-
-### Lesson 1.3 - Course Overview
-- What you'll build in this course
-- Prerequisites and setup
-- Tools and technologies used
-- Learning path and progression
-
----
-
-## CHAPTER 2: Robotic Nervous System - ROS 2 (4 Lessons)
-
-**Chapter Overview:** Master ROS 2 - the framework that connects all robot parts.
-
-### Lesson 2.1 - ROS 2 Architecture
-- ROS 2 fundamentals and design
-- Nodes, topics, services explained
-- How ROS 2 manages communication
-- Comparing ROS 1 vs ROS 2
-
-### Lesson 2.2 - Nodes, Topics, Services & Actions
-- Creating publisher/subscriber nodes
-- Topic-based communication
-- Service request-response pattern
-- Actions for long-running tasks
-- Building a complete ROS 2 system
-
-### Lesson 2.3 - Python Integration
-- Writing ROS 2 nodes in Python
-- Using rclpy library
-- Creating custom messages
-- Debugging ROS 2 applications
-- Common patterns and best practices
-
-### Lesson 2.4 - URDF for Humanoids
-- URDF file format (description language)
-- Robot kinematics description
-- Links and joints definition
-- Building a humanoid robot description
-- Visualization in RViz
-
----
-
-## CHAPTER 3: Digital Twin & Simulation (3 Lessons)
-
-**Chapter Overview:** Create virtual robots before building physical ones.
-
-### Lesson 3.1 - Gazebo Simulation Basics
-- Gazebo simulator setup
-- Creating 3D robot models
-- Physics simulation
-- Sensor simulation in Gazebo
-- Running simulations with ROS 2
-
-### Lesson 3.2 - Sensor Simulation
-- Camera simulation
-- LiDAR/Depth sensor simulation
-- IMU (motion sensor) simulation
-- Touch and force sensors
-- Realistic sensor noise modeling
-
-### Lesson 3.3 - High-Fidelity Rendering with Unity
-- Unity for photorealistic simulation
-- Bridging Unity and ROS 2
-- Building realistic training environments
-- Graphics vs physics simulation
-- Using Unity for learning and testing
-
----
-
-## CHAPTER 4: AI Robot Brain - NVIDIA Isaac (3 Lessons)
-
-**Chapter Overview:** Add AI perception and decision-making to your robot.
-
-### Lesson 4.1 - Isaac Sim Overview
-- NVIDIA Isaac platform introduction
-- Isaac Sim for realistic simulation
-- GPU-accelerated physics
-- Synthetic data generation
-- Training robots in simulation
-
-### Lesson 4.2 - Isaac ROS for Navigation
-- Navigation stack with Isaac
-- Path planning algorithms
-- Obstacle detection and avoidance
-- Autonomous navigation
-- Integrating with ROS 2
-
-### Lesson 4.3 - Reinforcement Learning
-- Training robots with RL
-- Policy learning
-- Reward functions
-- Transfer learning (sim-to-real)
-- DRL frameworks and tools
-
----
-
-## CHAPTER 5: Vision-Language-Action (VLA) Models (3 Lessons)
-
-**Chapter Overview:** Enable robots to understand language and act accordingly.
-
-### Lesson 5.1 - LLM Integration
-- Large Language Models for robotics
-- Prompt engineering for robots
-- Natural language understanding
-- Semantic parsing
-- Building a language interface
-
-### Lesson 5.2 - Voice to Action with Whisper
-- Speech recognition with OpenAI Whisper
-- Converting voice to text
-- Processing voice commands
-- Real-time audio streaming
-- Multi-language support
-
-### Lesson 5.3 - Cognitive Planning
-- From language to action
-- Task planning with language
-- Hierarchical task decomposition
-- Reasoning and decision making
-- Building intelligent robot behaviors
-
----
-
-## CHAPTER 6: Capstone Project (3 Lessons)
-
-**Chapter Overview:** Build a complete autonomous humanoid system.
-
-### Lesson 6.1 - Autonomous Humanoid Overview
-- Complete system architecture
-- Integrating all previous components
-- Sensor fusion
-- Real-time decision making
-- System optimization
-
-### Lesson 6.2 - Integration of Modules
-- Connecting ROS 2 nodes
-- Integrating simulation and real robot
-- Sensor-to-decision pipeline
-- Performance tuning
-- Debugging complex systems
-
-### Lesson 6.3 - Deployment & Assessment
-- Deploying on physical robot
-- Sim-to-real transfer
-- Testing and validation
-- Safety considerations
-- Production-ready robotics
-
----
-
-## Learning Path Summary
-
-### Beginner (Chapters 1-2)
-- Understand robotics fundamentals
-- Learn ROS 2 basics
-- Build your first robot system
-
-### Intermediate (Chapters 3-4)
-- Simulate robots
-- Add AI perception
-- Autonomous navigation
-
-### Advanced (Chapters 5-6)
-- Language understanding
-- Complex behaviors
-- Production systems
-
----
-
-## Total Content
-- **6 Major Chapters**
-- **19 Detailed Lessons**
-- **Hundreds of code examples**
-- **Project-based learning**
-- **From theory to deployment**
-
----
-
-## What You'll Build
-1. ROS 2 robot control system
-2. Simulated humanoid robot
-3. Autonomous navigation system
-4. AI-powered perception
-5. Voice-controlled robot
-6. Complete autonomous humanoid
-
----
-
-**Ready to start?** Ask about any specific chapter or lesson!
 """,
             "sources": [
                 {
@@ -280,14 +84,10 @@ This comprehensive course has **6 Chapters** with **19 Lessons** covering everyt
             "query": request.query
         }
     
-    # Book structure response
-    if "chapter" in query or "lesson" in query or "topic" in query or "structure" in query or "kitne" in query:
-        return {
-            "answer": """# Book Structure: Physical AI & Humanoid Robotics
-
-## Complete Book Overview
-
-This course has **6 Main Chapters** with **Multiple Lessons** in each chapter. Here's the complete structure:
+    # Just show the short answer already provided above
+    # (This condition is now redundant, can be handled by first condition)
+    if False:  # Disabled to avoid duplicate
+        pass
 
 ---
 
@@ -561,14 +361,22 @@ Ready to start? Ask about any specific chapter or lesson!
             "query": request.query
         }
     
-    # Autonomy response
+    # Autonomy response - SHORT VERSION
     if "autonomy" in query or "autonomous" in query:
         return {
-            "answer": """# Autonomy in Robotics Explained
+            "answer": """# What is Autonomy?
 
-## What is Autonomy?
+**Autonomy = Robot makes decisions and acts independently without human control**
 
-**Autonomy** means a robot can **make decisions and act independently** without human control. The robot perceives its environment, thinks about what to do, and takes action - all by itself.
+## 5 Levels of Autonomy:
+1. **Remote Control** - Human controls everything (no autonomy)
+2. **With Assistance** - Robot helps human (partial)
+3. **Autonomous Tasks** - Robot does specific jobs (moderate)
+4. **Conditional Autonomy** - Robot handles normal situations (high)
+5. **Full Autonomy** - Robot handles everything independently (complete)
+
+## How It Works:
+**Sense** (cameras/sensors) → **Think** (AI/decision) → **Act** (move/perform) The robot perceives its environment, thinks about what to do, and takes action - all by itself.
 
 ### Simple Definition
 **Autonomy = Perception + Decision Making + Action (without human control)**
@@ -774,14 +582,26 @@ Without motors/joints = Can't act. Robot must actually do something. Action = Pr
             "query": request.query
         }
     
-    # ROS 2 response
+    # ROS 2 response - SHORT VERSION
     if "ros 2" in query or "ros2" in query or "explain ros" in query:
         return {
-            "answer": """# ROS 2: The Robotic Nervous System
+            "answer": """# ROS 2 - Robot Operating System
 
-## What is ROS 2?
+**ROS 2 = The nervous system of your robot**
 
-**ROS 2** (Robot Operating System 2) is a flexible framework for writing robot software. It's the "nervous system" of your robot - managing communication, coordination, and data flow between different components.
+It connects all robot parts and lets them communicate.
+
+## Core Concepts:
+- **Nodes** = Independent programs (camera, planner, motor control)
+- **Topics** = Data streams (one way: camera → vision processor)
+- **Services** = Commands (ask for something, get response)
+- **Actions** = Tasks (long jobs with feedback)
+
+## Why Use It?
+- Modular design (break complex systems into simple parts)
+- Reusable code (thousands of ready-made packages)
+- Real-time communication
+- Works on any robot type
 
 Think of it like:
 - **Nervous System** - Connects sensors to the brain to muscles
@@ -919,14 +739,29 @@ ROS 2 is the modern standard for robotics, offering:
             "query": request.query
         }
     
-    # Physical AI response
+    # Physical AI response - SHORT VERSION
     if "physical ai" in query or "what is physical ai" in query:
         return {
-            "answer": """# Physical AI Explained
+            "answer": """# What is Physical AI?
 
-## What is Physical AI?
+**Physical AI = AI that interacts with the physical world**
 
-**Physical AI** is the intersection of **Artificial Intelligence** and the **Physical World**. It's about creating intelligent systems that can:
+## Traditional AI vs Physical AI:
+- **Traditional AI**: Text/data processing (ChatGPT, language models)
+- **Physical AI**: AI in robots that perceive + understand + act in real world
+
+## Key Components:
+1. **Perception** - See/hear the world (cameras, sensors)
+2. **Understanding** - AI processes what it sees (computer vision, ML)
+3. **Action** - Robot does something physical (move, manipulate)
+4. **Learning** - Improves from experience
+
+## Real Examples:
+- Humanoid robots
+- Self-driving cars
+- Robotic arms
+- Autonomous drones
+- Manufacturing robots
 
 - Perceive their environment (using cameras, sensors, LiDAR)
 - Understand what they see (computer vision, AI models)
@@ -990,55 +825,36 @@ Physical AI is the next frontier of AI - moving beyond software to create intell
             "query": request.query
         }
     
-    # Introduction response
-    if "introduction" in query or "start" in query or "hello" in query:
+    # Introduction response - SHORT VERSION
+    if "introduction" in query or "start" in query or "hello" in query or "hi" in query:
         return {
-            "answer": """# Welcome to Physical AI & Humanoid Robotics
+            "answer": """# Welcome to Robotics Course!
 
-## Introduction to the Course
+**Learn to build intelligent robots from scratch.**
 
-This comprehensive course introduces you to the fascinating world of **Physical AI** and **Humanoid Robotics**. You'll learn the fundamentals of building intelligent robots that can perceive, learn, and act in the physical world.
+## 6 Chapters:
+1. **Physical AI** - What is AI in the real world?
+2. **ROS 2** - How to program robots
+3. **Simulation** - Test robots before building (Gazebo, Unity)
+4. **AI Brain** - Computer vision and decision-making (NVIDIA Isaac)
+5. **Language** - Make robots understand voice commands
+6. **Capstone** - Build your own autonomous humanoid robot
 
-### What You'll Learn:
+## You'll Learn:
+- Robot control & programming
+- Simulation & virtual environments
+- AI perception & decision-making
+- Voice & language processing
+- Motion planning
+- Real robot deployment
 
-**Chapter 1: Introduction to Physical AI**
-- What is Physical AI and embodied intelligence
-- How robotics bridges AI and the physical world
-- Real-world applications and impact
+## Ask Me About:
+- "What is physical AI?"
+- "Explain ROS 2"
+- "Tell me about Chapter X"
+- "What is autonomy?"
 
-**Chapter 2: Robotic Nervous System (ROS 2)**
-- Architecture of modern robotics operating systems
-- Nodes, topics, services, and actions
-- Python integration for robot control
-
-**Chapter 3: Digital Twin & Simulation (Gazebo + Unity)**
-- Creating virtual robot replicas
-- Simulation-based testing and development
-- Real-to-sim and sim-to-real transfer
-
-**Chapter 4: AI Robot Brain (NVIDIA Isaac)**
-- AI-powered perception and decision making
-- Computer vision for robotics
-- Real-time inference on edge devices
-
-**Chapter 5: Vision-Language-Action (VLA) Models**
-- Multimodal AI for robot understanding
-- Language-conditioned robotic actions
-- Building adaptive robot controllers
-
-**Chapter 6: Capstone Project**
-- Build a complete autonomous humanoid system
-- Integrate all concepts into a working robot
-
-### Key Topics:
-- ROS 2 Architecture and Programming
-- Gazebo Simulation Environment
-- 3D Models and URDF Files
-- NVIDIA Isaac Sim and Perceptor
-- Vision and Language Models
-- Motion Planning and Control
-
-**Let's begin your robotics journey!** Ask any question about the chapters above, and I'll provide detailed explanations.""",
+**Let's build robots!**""",
             "sources": [
                 {
                     "title": "Chapter 1: Introduction to Physical AI",
@@ -1049,27 +865,22 @@ This comprehensive course introduces you to the fascinating world of **Physical 
             "query": request.query
         }
     
-    # Default response
+    # Default response - SHORT
     return {
-        "answer": f"""I'm the Robotics Chatbot! I'm here to help you learn about **Physical AI & Humanoid Robotics**.
+        "answer": f"""Robotics Chatbot Here!
 
-Your question: "{request.query}"
+Your Q: {request.query}
 
-I can help with:
-- **Chapter 1**: Introduction to Physical AI and embodied intelligence
-- **Chapter 2**: ROS 2 and the robotic nervous system
-- **Chapter 3**: Digital twins with Gazebo and Unity
-- **Chapter 4**: AI robot brain with NVIDIA Isaac
-- **Chapter 5**: Vision-Language-Action models
-- **Chapter 6**: Capstone projects
+Ask me about:
+- Physical AI
+- ROS 2
+- Simulation (Gazebo, Unity)
+- AI & Vision
+- Voice Commands
+- Building Robots
+- Any Chapter (1-6)
 
-Try asking:
-- "What is physical AI?"
-- "Explain ROS 2"
-- "How do robots perceive the world?"
-- "Tell me about the capstone project"
-
-Or type **"introduction"** to get started!""",
+Try: "Tell me about Chapter 2" or "Explain ROS 2""",
         "sources": [
             {
                 "title": "Robotics Book",

@@ -9,7 +9,7 @@ import os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import uvicorn
-from app_minimal import app
+from app_minimal_short import app
 
 if __name__ == "__main__":
     print("🚀 Starting Robotics Chatbot Backend...")
